@@ -1,8 +1,8 @@
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
-   Name = "🔥 Example Script Hub | Game 🔫",
-   LoadingTitle = "🔫 Gun Simulator 💥",
+   Name = "999 Gui",
+   LoadingTitle = "Geral",
    LoadingSubtitle = "by 1_F0",
    ConfigurationSaving = {
       Enabled = false,
